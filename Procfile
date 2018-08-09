@@ -1,1 +1,1 @@
-web: uwsgi uwsgi.ini
+web: python 3.6.6 demo.py
