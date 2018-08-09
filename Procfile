@@ -1,1 +1,1 @@
-web: python 3.6.6 demo.py
+web: python demo.py
