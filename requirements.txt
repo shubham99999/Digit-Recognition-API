@@ -1,0 +1,7 @@
+flask
+os
+csv
+numpy
+PIL
+sklearn
+uwsgi
