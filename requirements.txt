@@ -1,5 +1,4 @@
 flask
-os
 csv
 numpy
 PIL
