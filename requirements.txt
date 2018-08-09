@@ -3,5 +3,5 @@ numpy
 pillow
 sklearn
 joblib
-cv2
+opencv python
 uwsgi
