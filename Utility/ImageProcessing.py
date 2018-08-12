@@ -1,5 +1,5 @@
-!pip install opencv-python
-!apt update && apt install -y libsm6 libxext6
+#!pip install opencv-python
+#!apt update && apt install -y libsm6 libxext6
 import os
 import cv2
 import sys
